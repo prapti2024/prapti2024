@@ -122,7 +122,7 @@ An AI system designed to:
 
 <img src="https://github-readme-stats.vercel.app/api?username=prapti2024&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prapti2024&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=prapti2024&hide_border=true" />
 
 </p>
 
@@ -132,19 +132,9 @@ An AI system designed to:
 
 <!--START_SECTION:waka-->
 
+
+
 <!--END_SECTION:waka-->
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prapti2024&theme=flat&no-frame=true&margin-w=10" />
-
-</p>
-
----
 
 # 📈 GitHub Activity
 
