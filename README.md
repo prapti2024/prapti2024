@@ -66,7 +66,7 @@ PyTorch · Transformers · Neural Networks
 ## ☁️ Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,linux,kubernetes" />
+<img src="https://skillicons.dev/icons?i=linux,kubernetes" />
 </p>
 
 Currently learning:
@@ -82,37 +82,10 @@ Currently learning:
 
 # 🚀 Featured Projects
 
-### 🔥 Production MLOps Pipeline
-
-End-to-end machine learning pipeline covering:
-
-`Data Ingestion → Validation → Transformation → Training → Evaluation → Registry → Deployment`
-
-**Tech:** Python · MLflow · DVC · Docker · AWS · FastAPI
 
 ---
 
-### 🤖 Retrieval-Augmented Generation System
 
-A production-oriented RAG system using:
-
-`Documents → Chunking → Embeddings → Vector Search → Retrieval → LLM`
-
-**Tech:** Python · Transformers · Embeddings · Vector Database · FastAPI
-
----
-
-### 🧑‍💻 AI Job Application Agent
-
-An AI system designed to:
-
-- Find relevant job openings
-- Analyze job descriptions
-- Optimize resumes for ATS
-- Generate tailored applications
-- Track applications
-
-**Tech:** Python · LLMs · Agents · RAG · APIs
 
 
 # ⚡ Coding Activity
