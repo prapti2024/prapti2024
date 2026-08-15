@@ -116,15 +116,9 @@ An AI system designed to:
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 GitHub Activity
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prapti2024&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img src="https://streak-stats.demolab.com/?user=prapti2024&hide_border=true" />
-
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prapti2024&hide_border=true)
 
 ---
 
