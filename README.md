@@ -1,16 +1,215 @@
-## Hi there 👋
+# 👋 Hi, I'm Prapti Dahal
 
-<!--
-**prapti2024/prapti2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Machine Learning / Software Engineer
 
-Here are some ideas to get you started:
+I build **AI/ML systems and production-ready software**, with a focus on
+Machine Learning, NLP, LLMs, RAG, MLOps, and backend engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Currently focused on **AI/ML Engineering**
+- 🤖 Building **LLM, RAG & Agentic AI systems**
+- ⚙️ Learning **MLOps, CI/CD, Docker, Kubernetes & Cloud**
+- 🐍 Python is my primary language
+- 🚀 Interested in turning ML models into **reliable production systems**
+
+---
+
+## 🧠 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
+
+**Machine Learning:**  
+Classification · Regression · NLP · Deep Learning · Model Evaluation
+
+**Deep Learning:**  
+PyTorch · Transformers · Neural Networks
+
+---
+
+## 🤖 LLM & Generative AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Working with:**
+
+- Transformers
+- Hugging Face
+- Embeddings
+- Vector Similarity Search
+- Retrieval-Augmented Generation (RAG)
+- LLM Evaluation
+- AI Agents
+
+---
+
+## ⚙️ MLOps & Software Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,githubactions,fastapi" />
+</p>
+
+- FastAPI
+- REST APIs
+- Docker
+- Git / GitHub
+- CI/CD
+- MLflow
+- DVC
+- Model Serving
+- Experiment Tracking
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,kubernetes" />
+</p>
+
+Currently learning:
+
+- AWS
+- Docker
+- Kubernetes
+- Linux
+- Cloud deployment
+- CI/CD pipelines
+
+---
+
+# 🚀 Featured Projects
+
+### 🔥 Production MLOps Pipeline
+
+End-to-end machine learning pipeline covering:
+
+`Data Ingestion → Validation → Transformation → Training → Evaluation → Registry → Deployment`
+
+**Tech:** Python · MLflow · DVC · Docker · AWS · FastAPI
+
+---
+
+### 🤖 Retrieval-Augmented Generation System
+
+A production-oriented RAG system using:
+
+`Documents → Chunking → Embeddings → Vector Search → Retrieval → LLM`
+
+**Tech:** Python · Transformers · Embeddings · Vector Database · FastAPI
+
+---
+
+### 🧑‍💻 AI Job Application Agent
+
+An AI system designed to:
+
+- Find relevant job openings
+- Analyze job descriptions
+- Optimize resumes for ATS
+- Generate tailored applications
+- Track applications
+
+**Tech:** Python · LLMs · Agents · RAG · APIs
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prapti2024&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prapti2024&hide_border=true" />
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prapti2024&theme=flat&no-frame=true&margin-w=10" />
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prapti2024&hide_border=true)
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+### AI / ML
+
+`PyTorch` · `Scikit-learn` · `Transformers` · `Hugging Face`
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker" />
+</p>
+
+### MLOps
+
+`MLflow` · `DVC` · `Docker` · `GitHub Actions`
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,linux" />
+</p>
+
+### Databases
+
+`MySQL` · `MongoDB` · `PostgreSQL`
+
+---
+
+# 📚 Currently Learning
+
+```text
+AI Engineering
+      │
+      ├── LLM Engineering
+      │     ├── RAG
+      │     ├── LLM Evaluation
+      │     ├── Agents
+      │     └── Inference
+      │
+      ├── MLOps
+      │     ├── MLflow
+      │     ├── DVC
+      │     ├── CI/CD
+      │     └── Monitoring
+      │
+      ├── Software Engineering
+      │     ├── APIs
+      │     ├── System Design
+      │     ├── Databases
+      │     └── Linux
+      │
+      └── Cloud
+            ├── AWS
+            ├── Docker
+            └── Kubernetes
