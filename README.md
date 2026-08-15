@@ -114,13 +114,6 @@ An AI system designed to:
 
 **Tech:** Python · LLMs · Agents · RAG · APIs
 
----
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prapti2024&hide_border=true)
-
----
 
 # ⚡ Coding Activity
 
