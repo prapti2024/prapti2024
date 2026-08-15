@@ -2,7 +2,7 @@
 
 ### Machine Learning / Software Engineer
 
-I build **AI/ML systems and production-ready software**, with a focus on
+I build **AI/ML systems**, with a focus on
 Machine Learning, NLP, LLMs, RAG, MLOps, and backend engineering.
 
 - 🧠 Currently focused on **AI/ML Engineering**
