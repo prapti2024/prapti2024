@@ -93,7 +93,9 @@ Currently learning:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   15 mins               ████████████▓░░░░░░░░░░░░   51.05 %
+Docker     14 mins               ███████████▒░░░░░░░░░░░░░   45.57 %
+YAML       1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
