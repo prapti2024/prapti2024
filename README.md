@@ -5,8 +5,8 @@
 I build **AI/ML systems**, with a focus on
 Machine Learning, NLP, LLMs, RAG, MLOps, and backend engineering.
 
-- 🧠 Currently focused on **AI/ML Engineering**
-- 🤖 Building **LLM, RAG & Agentic AI systems**
+- 🧠 Currently focused on **Deep Learning/Machine Learning/ AI**
+- 🤖 Building **LLM, RAG systems**
 - ⚙️ Learning **MLOps, CI/CD, Docker, Kubernetes & Cloud**
 - 🐍 Python is my primary language
 - 🚀 Interested in turning ML models into **reliable production systems**
