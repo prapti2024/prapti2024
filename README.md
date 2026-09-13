@@ -93,10 +93,9 @@ Currently learning:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 56 mins         █████████████████████▒░░░   85.60 %
-Text         1 hr 8 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Other        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       3 hrs 13 mins         ██████████████████▒░░░░░░   73.88 %
+Text         1 hr 8 mins           ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
