@@ -93,8 +93,7 @@ Currently learning:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs 46 mins         ████████████████████▓░░░░   82.03 %
-Text     1 hr 2 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Python   3 hrs 9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
